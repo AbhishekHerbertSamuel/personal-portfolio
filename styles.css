@@ -62,45 +62,25 @@ footer {
     padding: 10px 0;
 }
 
-/* Contact Form */
-form {
-    max-width: 500px;
-    margin: 20px auto;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    background-color: #f9f9f9;
+/* Contact Section Styling */
+.section ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
 }
 
-form label {
-    font-weight: bold;
-    margin-top: 10px;
-    display: block;
+.section ul li {
+    margin-bottom: 10px;
+    font-size: 1.1rem;
 }
 
-form input, form textarea, form button {
-    width: 100%;
-    margin-top: 5px;
-    padding: 10px;
-    font-size: 1rem;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    margin-bottom: 15px;
+.section ul li a {
+    color: #007bff;
+    text-decoration: none;
 }
 
-form button {
-    background-color: #333;
-    color: #fff;
-    cursor: pointer;
-}
-
-form button:hover {
-    background-color: #555;
-}
-
-.error-message {
-    color: red;
-    display: none;
+.section ul li a:hover {
+    text-decoration: underline;
 }
 
 /* Scroll-to-Top Button */
