@@ -17,13 +17,8 @@ This is the personal portfolio website of Abhishek Herbert Samuel, showcasing hi
 - JavaScript
 - GitHub Pages for deployment
 
-## How to Use
-1. Clone the repository:
-    git clone https://github.com/AbhishekHerbertSamuel/personal-portfolio.git
-2. Open `index.html` in a browser.
-
 ## Deployment
-The site is live at: [GitHub Pages Link]
+The site is live at: https://abhishekherbertsamuel.github.io/personal-portfolio/
 
 ## Reflection
 1. Learned responsive design techniques.
