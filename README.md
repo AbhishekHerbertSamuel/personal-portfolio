@@ -25,5 +25,5 @@ The site is live at: https://abhishekherbertsamuel.github.io/personal-portfolio/
 2. Implemented interactivity using JavaScript.
 3. Improved knowledge of form validation.
 4. Mastered GitHub Pages deployment.
-...
+
 
